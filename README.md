@@ -16,6 +16,8 @@ All materials can be found on this offical page: <https://ocw.mit.edu/courses/6-
 ## Hws
 
 - [x] [01. Getting Started](./Hws/Hw01)
+- [x] [02. Profiling Serial Merge Sort](./Hws/Hw02)
+- [x] [03. Vectorization](./Hws/Hw03)
 
 
 ## Projects
